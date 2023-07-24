@@ -1,0 +1,13 @@
+{
+
+    "name" : "JOKE FROM SONI " ,
+    "description" : "START YOUR DAY WITH A LAUGH " ,
+    "version" : "1.0" ,
+    "manifest_version": 3 , 
+    "action" : {
+        "default_popup": "popup.html" ,
+        "default_icon"  : "Myproject1.png"
+    }
+
+}
+
